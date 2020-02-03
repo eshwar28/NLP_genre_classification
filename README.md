@@ -8,7 +8,7 @@
 * re(for Regular Expression Operations)
 * ast(Abstract Syntax Trees)
 
-#D ata:
+# Data:
 * The data here is from the articles published on arXiv in the Astrophysics domain.
 * The Data_Train.csv file has the columns:
  * 'Title': The title of the articles.
